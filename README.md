@@ -29,7 +29,7 @@
 
 ### 🛰️ CV-SAR-Process
 **Computer Vision & SAR Data Processing**
-- **Tech Stack**: Jupyter Notebook (96.2%), Python (3.8%)
+- **Tech Stack**: Python (100%)
 - SAR 영상 처리 및 컴퓨터 비전 기법 적용
 - Sentinel-1 데이터 전처리 파이프라인
 
